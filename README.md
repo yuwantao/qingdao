@@ -1,2 +1,1 @@
-qingdao
-=======
+This is the qingdao project.
